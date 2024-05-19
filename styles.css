@@ -90,7 +90,7 @@ footer {
 }
 
 .monument-image {
-    max-width: 200px;
+    max-width: 20px;
     height: auto;
     margin-right: 20px; /* Espace entre l'image et le texte */
 }
