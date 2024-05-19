@@ -68,11 +68,11 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    text-color:white;
 }
 
 button:hover {
     background-color: #555;
+    color: #fff;
 }
 
 footer {
