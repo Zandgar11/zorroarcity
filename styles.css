@@ -98,4 +98,9 @@ footer {
     height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur */
 }
 
+ul {
+    list-style: none; /* Supprime les puces de la liste */
+    padding: 0; /* Supprime les marges internes de la liste */
+}
+
 
