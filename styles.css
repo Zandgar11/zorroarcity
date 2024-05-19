@@ -49,18 +49,18 @@ form {
     flex-direction: column;
 }
 
-form label {
+label {
     margin-top: 10px;
 }
 
-form input, form textarea {
+input, textarea {
     padding: 10px;
     margin-top: 5px;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
 
-form button {
+button {
     margin-top: 10px;
     padding: 10px;
     background-color: #333;
@@ -70,7 +70,7 @@ form button {
     cursor: pointer;
 }
 
-form button:hover {
+button:hover {
     background-color: #555;
 }
 
