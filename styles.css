@@ -68,7 +68,7 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    text-decoration:none;
+    text-color:white;
 }
 
 button:hover {
