@@ -84,14 +84,18 @@ footer {
     bottom: 0;
 }
 
-.monument-info {
+.monument-item {
     display: flex;
     align-items: center;
 }
 
-.monument-image {
-    max-width: 20px;
-    height: auto;
-    margin-right: 20px; /* Espace entre l'image et le texte */
+.monument-text {
+    margin-right: 10px; /* Espace entre le texte et l'image */
 }
+
+.monument-image img {
+    width: 25px; /* Ajustez la taille de l'image selon vos besoins */
+    height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur */
+}
+
 
