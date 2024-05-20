@@ -91,12 +91,17 @@ footer {
 }
 
 .monument-text {
-    margin-right: 10px; /* Espace entre le texte et l'image */
+    margin-right: 10px; 
 }
 
-.monument-image img {
-    width: 30px; /* Ajustez la taille de l'image selon vos besoins */
-    height: auto; /* Ajuste automatiquement la hauteur en fonction de la largeur */
+/*.monument-image img {
+    width: 30px; 
+    height: auto; 
+}*/
+
+img {
+    width: 30px;
+    height: auto;
 }
 
 
