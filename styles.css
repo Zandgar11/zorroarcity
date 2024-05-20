@@ -104,6 +104,19 @@ img {
     height: auto;
 }
 
+.monument-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.monument-info {
+    /* Ajoutez des styles pour le texte ici */
+}
+
+.monument-image {
+    /* Ajoutez des styles pour l'image ici */
+}
 
 
 
