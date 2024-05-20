@@ -85,18 +85,18 @@ footer {
     bottom: 0;
 }
 
-.monument {
+.monument, .monument2 {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.monument-image {
+.monument-image, .monument-image2 {
   width:50px;
   height:auto;
 }
 
-.monument-text {
+.monument-text, .monument-text2 {
   /* Add styles for the text here */
   flex: 1;
 }
