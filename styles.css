@@ -85,37 +85,25 @@ footer {
     bottom: 0;
 }
 
-.monument-item {
-    display: flex;
-    align-items: center;
-}
-
-.monument-text {
-    margin-right: 10px; 
-}
-
-/*.monument-image img {
-    width: 30px; 
-    height: auto; 
-}*/
 
 img {
     width: 30px;
     height: auto;
 }
 
-.monument-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-}
-
-.monument-info {
-    /* Ajoutez des styles pour le texte ici */
+.monument {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .monument-image {
-    /* Ajoutez des styles pour l'image ici */
+  /* Add styles for the image here */
+}
+
+.monument-text {
+  /* Add styles for the text here */
+  flex: 1;
 }
 
 
