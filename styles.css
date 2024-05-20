@@ -85,12 +85,6 @@ footer {
     bottom: 0;
 }
 
-
-img {
-    width: 30px;
-    height: auto;
-}
-
 .monument {
   display: flex;
   justify-content: space-between;
